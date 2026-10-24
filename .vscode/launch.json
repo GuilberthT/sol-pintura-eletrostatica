@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Rodar SOL - Cadastro de Cliente",
+      "request": "launch",
+      "mainClass": "br.ufms.sol.Main",
+      "projectName": "sol-cadastro-cliente",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

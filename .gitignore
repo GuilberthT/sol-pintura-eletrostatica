@@ -1,0 +1,8 @@
+bin/
+target/
+sol.db
+*.iml
+.idea/
+.settings/
+.classpath
+.project
